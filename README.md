@@ -1,2 +1,2 @@
 # DiscordBot
-A DiscordBot project.
+This is an opensource discord.js bot project which is free of license. Feel free learn how to make a discord bot at (https://discord.js.org/#/) The code given in this repository wont fully work unless you know what youre doing or have basic computing knowledge.
