@@ -4,3 +4,12 @@ This is an opensource discord.js bot project which is free of license. Feel free
 
 ```Check the wiki tab for more info``` (https://github.com/Amogus21/DiscordBot/wiki)
 
+```ruby
+Setup Commands
+```
+
+|  Command | Description
+| :---         |     :---:      
+| npm init     | r     
+| git diff     | git diff       
+
